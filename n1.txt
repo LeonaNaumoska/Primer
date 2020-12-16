@@ -2,4 +2,10 @@ Hello World! -> 1
 
 Hello World! How are you? -> 2
 
+<<<<<<< HEAD
 Hello World! How are you? --> 3 -> on master branch
+=======
+Hello World! How are you? -> 3 -> on new branch "br1"
+
+Hello World! How are you? What's new? -> 4 -> on new branch "br1"
+>>>>>>> br1
